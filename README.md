@@ -1,0 +1,1 @@
+This app calculates budget based on provided list of income and expenses. This project is in "The Complete JavaScript Course" on Udemy taught by "Jonas Schmedtmann". This project is more focused on Javascript as CSS and HTML code was provided as starter code from the instructor.
